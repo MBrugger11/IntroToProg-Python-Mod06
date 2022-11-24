@@ -1,0 +1,4 @@
+Homework,High
+Wash Clothes,Low
+Put Away Clothes,Medium
+Sleep,High
